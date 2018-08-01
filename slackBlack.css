@@ -1,8 +1,8 @@
 body { background: #434745; color: #e6e6e6; }
 
-a { color: #949494; }
+a { color: #0576b9; }
 
-a:link, a:visited { color: #949494; }
+a:link, a:visited { color: #0576b9; }
 
 a:hover, a:active, a:focus { color: #c7c7c7; }
 
@@ -1971,9 +1971,9 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 a.internal_member_link { background: #363636; color: #e6e6e6; }
 
-a.c-member_slug, .c-member_slug--link, .c-mrkdwn__subteam--link { background: #363636; border: 1px solid #545454; color: #e6e6e6; }
+a.c-member_slug, .c-member_slug--link, .c-mrkdwn__subteam--link { background: #363636; border: 1px solid #545454; color: #0576b9; }
 
-a.c-member_slug.active, a.c-member_slug:hover, .c-member_slug--link.active, .c-member_slug--link:hover, .c-mrkdwn__subteam--link.active, .c-mrkdwn__subteam--link:hover { background: #424242; color: #e6e6e6; }
+a.c-member_slug.active, a.c-member_slug:hover, .c-member_slug--link.active, .c-member_slug--link:hover, .c-mrkdwn__subteam--link.active, .c-mrkdwn__subteam--link:hover { background: #424242; color: #0576b9; }
 
 .mention_rxn .mention_rxn_summary { color: #e6e6e6; }
 
